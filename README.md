@@ -1,1 +1,3 @@
 # Data-science-Experience-Program-Finlatics
+
+In this project, I conducted a comprehensive analysis of a bank’s term deposit marketing campaign dataset using Python to enhance my data science skills. By applying statistical methods, data cleaning techniques, and machine learning algorithms, I explored and visualized the dataset's 19 features using libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The analysis identified key trends and patterns, providing valuable insights for case study questions. Additionally, I created a detailed presentation to effectively communicate the findings, significantly improving my practical skills in Exploratory Data Analysis and Data Visualization.
